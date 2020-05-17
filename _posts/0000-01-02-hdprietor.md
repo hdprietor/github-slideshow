@@ -2,5 +2,5 @@
 layout: slide
 tittle: "Welcome to our second slide!"
 ---
-Hellow World!
+Hola Mundo!
 Use the left arrow to go back!
